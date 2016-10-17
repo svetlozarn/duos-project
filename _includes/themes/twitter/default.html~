@@ -44,8 +44,9 @@
       <hr>
       <footer>
         <p><small>
-  <!-- start of Karl's footer; modify this part -->
-  <!-- end of Karl's footer; modify this part -->
+  <!-- start of footer; modify this part -->
+Funded by a grant by the Alfred P. Sloan Foundation.
+  <!-- end of footer; modify this part -->
         </small></p>
       </footer>
 

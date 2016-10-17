@@ -5,7 +5,12 @@ tagline: Dataset-Utilization Open Search
 description: Extracting detailed metadata about datasets and methodologies from economic research papers
 ---
 
-[DUOS Project](http://www.duosproject.org) 
+[DUOS Project](http://www.duosproject.org) tackles the problem of
+extracting automatically and semi-automatically the relationships
+between publications, datasets, and methodologies.  Our primary focus
+is on research articles in economics.  From each article we extract
+details about specific datasets used, including variables and time
+periods as well as methodologies and techniques.
 
 The DUOS Team includes:
 

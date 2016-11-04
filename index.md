@@ -12,6 +12,57 @@ is on research articles in economics.  From each article we extract
 details about specific datasets used, including variables and time
 periods as well as methodologies and techniques.
 
+## History
+
+The DUOS project originated at the Federal Reserve Bank at Kansas City.
+
+## Motivation
+
+Datasets play a pivotal role in economic research.  For example, the
+	 Current Population Survey (CPS), a statistical survey
+	 conducted by the United States Census Bureau, has been
+	 administered since 1948 and has been used in thousands of
+	 academic publications. While a search for "Current Population
+	 Survey" on Google Scholar returns more than 100,000 results, a
+	 simple mention of the dataset in an article is not sufficient
+	 evidence of the dataset’s use within that research.  Many of
+	 the articles are about the survey itself rather than about
+	 its use as an input dataset to answer a research question.
+	 Indeed, a substantial number of references simply mention why
+	 the CPS was not used to answer a particular research
+	 question. While a helpful general statistic, keyword search
+	 results do not provide enough context to fully understand
+	 dataset usage.  Furthermore, even for articles in the search
+	 result which use the CPS data, the reference may appear just
+	 in the body of the text, often without sufficient detail to
+	 allow for meaningful identification. For example, the
+	 specific details of what portions of the CPS data were used
+	 in the study as well as the specific methodologies and
+	 techniques utilized may be contained in the full text of the
+	 article, can sometimes be found in the captions and legends
+	 of graphs and figures, and could possibly appear in an
+	 appendix or a separate data specific file.  Consequently,
+	 finding all publications that use a particular portion of the
+	 CPS data (e.g. all data from 1994 to 2014) is a complex and
+	 time consuming task
+
+
+## Use Cases of DUOS
+
+* Comprehensive Literature Review
+* Dataset Utilization
+* Approaching New Datasets
+* Generating New Research Applications   
+
+We fully expect that DUOS will be used in conjunction with already
+existing resources such as JSTOR, Web of Science by Thomson Reuters,
+and Google Scholar.  Depending on the particular task, DUOS can be
+used before, after, or alongside any of these research resources.
+
+## Technical Details
+
+### Partial ERD of the collected data 
+
 ![ERD](assets/images/DUOS_ERD_articles.png)
 
 The DUOS Team includes:

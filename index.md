@@ -14,7 +14,16 @@ periods as well as methodologies and techniques.
 
 ## History
 
-The DUOS project originated at the Federal Reserve Bank at Kansas City.
+In order to validate our conjecture about the difficulty of the
+problem of extracting linkages between articles, data, and
+methodologies and lay the groundwork for designing and developing a
+comprehensive solution, we conducted a small pilot project working
+with staff at the Center for the Advancement of Data and Research in
+Economics (CADRE) at the Federal Reserve Bank of Kansas City.  The
+goal of this project was to capture information on input datasets and
+methodologies for a subset of academic papers that use the CPS
+data. The results of this pilot project inspired the development of
+DUOS.
 
 ## Motivation
 

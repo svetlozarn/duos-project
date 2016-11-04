@@ -23,7 +23,7 @@ Datasets play a pivotal role in economic research.  For example, the
 	 conducted by the United States Census Bureau, has been
 	 administered since 1948 and has been used in thousands of
 	 academic publications. While a search for "Current Population
-	 Survey" on Google Scholar returns more than 100,000 results, a
+	 Survey" on Google Scholar returns more than 100,000 [results](https://scholar.google.com/scholar?q="Current+Population+Survey"), a
 	 simple mention of the dataset in an article is not sufficient
 	 evidence of the dataset’s use within that research.  Many of
 	 the articles are about the survey itself rather than about

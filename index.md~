@@ -12,7 +12,7 @@ is on research articles in economics.  From each article we extract
 details about specific datasets used, including variables and time
 periods as well as methodologies and techniques.
 
-images/
+![ERD](images/DUOS_ERD_articles.png)
 
 The DUOS Team includes:
 
